@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Chao Xie
+image: images/xiechao.png
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: Tsinghua University
+
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.pcs.tsinghua.edu.cn/info/1010/1875.htm
+  orcid: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Chao Xie received his B.S. and M.S. degrees from Southwest University and his Ph.D. from Fudan University. His research lies at the intersection of cognitive neuroscience and psychiatry. By decoding the neural basis of cognitive functions, his work aims to uncover the complex pathophysiological mechanisms underlying mental disorders and to develop computational models that provide neuroscientific evidence and theoretical frameworks for precision diagnosis and subtyping in psychiatry.
+
+His research has been published in top-tier journals such as Nature Medicine (cover article), Nature Mental Health, and Science Advances. His work was recognized by the Chinese Academy of Medical Sciences as one of the Top 48 Major Medical Advances of 2023 (selected from over 330,000 candidates) and was highlighted by PNAS and The Lancet Neurology as a significant advance in neuropsychiatric research that year.

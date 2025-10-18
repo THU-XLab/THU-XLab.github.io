@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Xiaoqing Li
+image: images/tomato.jpg
 role: phd
-group: alum
+group: current
 links:
-  github: john-doe
+  github: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi,I am tomato! hhhh

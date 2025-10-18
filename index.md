@@ -1,9 +1,13 @@
 ---
 ---
 
-# THU-XLab's Website
+# The Computational Psychiatry & AI Lab
 
-An engaging 1-3 sentence description of your lab.
+At the intersection of neuroscience, artificial intelligence, and mental health, we strive to understand the computational nature of the human mind.
+Through the lens of **Computational Psychiatry**, we teach machines to read the brain’s language—seeking patterns of cognition and emotion hidden within neural and behavioral data.
+
+To us, uncovering how intelligence arises is not merely a question of science, but a step toward **empathy, insight, and healing**.
+
 
 {% include section.html %}
 
@@ -11,7 +15,8 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At the intersection of neuroscience, artificial intelligence, and mental health, we strive to understand the computational nature of the human mind.
+Through the lens of Computational Psychiatry, we teach machines to read the brain’s language—seeking patterns of cognition and emotion hidden within neural and behavioral data.
 
 {%
   include button.html
@@ -34,7 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At the intersection of neuroscience, artificial intelligence, and mental health, we strive to understand the computational nature of the human mind.
+Through the lens of Computational Psychiatry, we teach machines to read the brain’s language—seeking patterns of cognition and emotion hidden within neural and behavioral data.
+
 
 {%
   include button.html
@@ -59,7 +66,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At the intersection of neuroscience, artificial intelligence, and mental health, we strive to understand the computational nature of the human mind.
+Through the lens of Computational Psychiatry, we teach machines to read the brain’s language—seeking patterns of cognition and emotion hidden within neural and behavioral data.
 
 {%
   include button.html
