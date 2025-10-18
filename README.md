@@ -5,6 +5,6 @@
 
   # THU-XLab's Website
 
-  Visit **[thu-xlab.github.io/xlab.github.io](https://thu-xlab.github.io/xlab.github.io)** 🚀
+  Visit **[thu-xlab.github.io](https://thu-xlab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
